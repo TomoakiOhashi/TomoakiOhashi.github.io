@@ -1,10 +1,19 @@
-## 練習で制作したCG
+# 練習で制作したCG
 
 
 
-# blender で作ったもの
+## blender で作ったもの
 
-![]()
+* 教本を見ながら作ったもの
+
+ まだ未完成なんですがGAに行きだしてmayaを触り始めたら操作方法がごちゃまぜになりそうで
+ しばらくblenderを触るのは控えてました・・
+ 
+ ちゃんと完成させたいです
+
+
+![blender1](http://TomoakiOhashi.github.io/images/blender/blender1.PNG)
+
 You can use the [editor on GitHub](https://github.com/TomoakiOhashi/TomoakiOhashi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
