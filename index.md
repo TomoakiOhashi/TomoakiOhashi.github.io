@@ -81,4 +81,5 @@ any word wrapped with two tildes (like ~~this~~)will appear crossed out.
 
 Emoji
 
-Github suppots emoji! imp: star: aleien:
+Github suppots emoji!
+:imp::star::aleien:
