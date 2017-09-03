@@ -4,7 +4,8 @@
 
 ## blender で作ったもの
 
-1.  
+* 教本を見ながら作ったもの（未完成）
+
 
 
 ![blender1](http://TomoakiOhashi.github.io/images/blender/blender1.PNG)
